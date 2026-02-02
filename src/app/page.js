@@ -458,7 +458,7 @@ export default function Home() {
       <footer className="py-12 px-8 border-t border-white/10">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-sm text-zinc-500">
-            © 2024 Portfolio. All rights reserved.
+            © 2025 Portfolio. All rights reserved.
           </div>
           <motion.a
             href="#hero"
